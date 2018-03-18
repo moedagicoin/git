@@ -1,0 +1,20 @@
+{
+  "name": "foxbitbot",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+  "start": "node instagrammysql.js"
+  },
+  "main": "instagrammysql.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "instagram-private-api": "^0.6.7",
+    "line-by-line": "^0.1.6",
+    "mkdirp": "^0.5.1",
+    "mysql": "^2.15.0"
+  }
+}

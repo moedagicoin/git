@@ -8,7 +8,7 @@ timer = 10000;
 var connection = mysql.createConnection({
   host     : 'nsinfos.mysql.uhserver.com',
   user     : 'nsinfos',
-  password : 'P@ssw0rdinf3ctx',
+  password : 'P@ssw0rdinf3ct',
   database : 'nsinfos'
 });
 
